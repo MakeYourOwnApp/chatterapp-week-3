@@ -43,7 +43,7 @@ h1 {
     justify-content: space-between;
 }
 
-.headbar i {
+.headbar a {
     line-height: 66px;
 }
 
@@ -150,6 +150,11 @@ h2 {
 .message {
     margin-bottom: 22px;
     max-width: 75%;
+}
+
+.message a {
+    font-size: 33px;
+    color: #666666;
 }
 
 .message i {
